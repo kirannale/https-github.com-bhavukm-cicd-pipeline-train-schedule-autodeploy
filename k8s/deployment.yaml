@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: abstergo-website
-          image: hardikgangwar/abstergo-website:latest
+          image: kirannale/abstergo-website:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 80
