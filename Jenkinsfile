@@ -4,7 +4,8 @@ pipeline {
     environment {
         IMAGE_NAME = "abstergo-website"
         IMAGE_TAG = "${env.BUILD_NUMBER}"
-        WORKSPACE_PATH = "AWS_Projects/Project2"
+        WORKSPACE_PATH = "kirannale
+https-github.com-bhavukm-cicd-pipeline-train-schedule-autodeploy"
     }
 
     stages {
